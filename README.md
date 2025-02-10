@@ -14,9 +14,10 @@ Database: MongoDB
 API: OpenWeatherMap
 
 🚀 How to Run:
+
 Clone the repo:
-git clone https://github.com/your-username/weather-prediction-ai.git
-cd weather-prediction-ai
+git clone https://github.com/SuprabhaPanigrahi/Weather-Prediction-using-AI-and-ML.git
+cd Weather-Prediction-using-AI-and-ML
 
 Install dependencies:
 pip install -r requirements.txt
