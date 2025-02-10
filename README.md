@@ -25,7 +25,8 @@ pip install -r requirements.txt
 Run the project:
 python app.py
 
-📚 Future Improvements
+📚 Future Improvements:
+
 Improve prediction accuracy.
 Add a better UI/UX with React.js.
 Implement real-time weather updates.
