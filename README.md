@@ -45,7 +45,6 @@ This project is an AI-powered weather forecasting system built using multiple ma
 
    python app.py
 
-6. Visit `http://localhost:5000` in your browser to use the app.
 
 ## 📸 Screenshots 
 
@@ -68,9 +67,6 @@ Once the server is running, you can input your city name and receive predictions
 
 The project supports multiple models behind the scenes, and you can switch or extend them easily.
 
-## 🌐 Live Demo
-
-> *(If hosted on Heroku, Render, or any other platform, include the link here)*
 
 
 ## 🤝 Contributing
