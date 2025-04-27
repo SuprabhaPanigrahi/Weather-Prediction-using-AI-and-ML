@@ -77,7 +77,7 @@ For major changes, please open an issue first to discuss what you'd like to impr
 ## 🙋‍♀️ About Me
 
 Developed with 💙 by **Suprabha**  
-GitHub: [github.com/your-username](https://github.com/SuprabhaPanigrahi)  
-LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/Suprabha-Panigrahi)
+GitHub: https://github.com/SuprabhaPanigrahi  
+LinkedIn: https://linkedin.com/in/Suprabha-Panigrahi
 
 If you liked this project, give it a ⭐ and share it with your network!
